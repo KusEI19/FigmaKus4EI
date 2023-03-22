@@ -1,0 +1,24 @@
+form {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 30%;
+  margin: 0 auto;
+  font-size: large;
+}
+label {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  justify-content: center;
+  display: flex;
+}
+body {
+  background-color: aquamarine;
+}
+a {
+  display: flex;
+  justify-content: center;
+}
