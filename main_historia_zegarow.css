@@ -1,0 +1,22 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  background-color: aquamarine;
+  margin-top: 0%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 0%;
+  font-size: 30px;
+}
+p {
+  font-size: 23px;
+}
+footer {
+  background: rgb(47, 187, 164);
+  padding-bottom: 1em;
+}
+a {
+  display: flex;
+  justify-content: center;
+  background-color: cadetblue;
+}
