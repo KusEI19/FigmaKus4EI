@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Kontakt</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+      href="main_kontakt_zegary.css"
+    />
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <h1>Formularz kontaktowy</h1>
+    <form>
+      <label for="imie">Imię*:</label>
+      <input type="text" id="imie" name="imie" value="Jakub" required />
+      <label for="nazwisko">Nazwisko*:</label>
+      <input type="text" id="nazwisko" name="nazwisko" value="Kuś" required />
+      <label for="email">E-mail*:</label>
+      <input
+        type="email"
+        id="email"
+        name="email"
+        value="email@email.com"
+        required
+      />
+      <label for="numer">Numer*:</label>
+      <input type="number" id="numer" name="numer" />
+      <br />
+      <legend>Przekaż nam wiadomość*</legend>
+      <textarea
+        id="wiadomosc"
+        name="wiadomosc"
+        rows="40"
+        cols="50"
+        required
+      ></textarea>
+      <br />
+      <input type="submit" value="Wyślij" />
+      <a href="index.html">Powrót</a>
+    </form>
+  </body>
+</html>
