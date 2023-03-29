@@ -1,0 +1,12 @@
+p {
+  font-size: 60px;
+  color: red;
+  display: flex;
+  justify-content: center;
+  margin-top: 3em;
+}
+a {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
