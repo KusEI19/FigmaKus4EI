@@ -69,6 +69,22 @@ nav ul {
     margin-left: 350px;
     font-size: 25px;
   }
+  p.dzialanie_p{
+    max-width: 1200px;
+    margin-left: 350px;
+    font-size: 25px;
+  }
+  p.rodzaje_p{
+    max-width: 1200px;
+    margin-left: 350px;
+    font-size: 25px;
+  }
+  p.historia_p1{
+    max-width: 1200px;
+    margin-left: 350px;
+    font-size: 25px;
+  }
+  
   p.sklep_p {
     font-size: 60px;
     color: red;
